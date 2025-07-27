@@ -2,6 +2,9 @@
 
 Este proyecto fue realizado como entrega final del curso de Excel Avanzado de Coderhouse.
 
+<img width="1317" height="609" alt="image" src="https://github.com/user-attachments/assets/b3ebb1e5-0dc9-4190-a267-657a88a8e942" />
+
+
 ## 📈 ¿Qué incluye?
 
 - Dashboard interactivo con segmentación por:
