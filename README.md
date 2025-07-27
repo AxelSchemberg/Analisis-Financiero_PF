@@ -2,7 +2,8 @@
 
 Este proyecto fue realizado como entrega final del curso de Excel Avanzado de Coderhouse.
 
-<img width="1317" height="609" alt="image" src="https://github.com/user-attachments/assets/b3ebb1e5-0dc9-4190-a267-657a88a8e942" />
+<img width="1321" height="610" alt="image" src="https://github.com/user-attachments/assets/d655441d-aef4-48ea-aaef-3ec8b40420e0" />
+
 
 
 ## 📈 ¿Qué incluye?
